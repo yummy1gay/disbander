@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Sekai Disbander</string>
+    <string name="app_title">DISBANDER</string>
+    <string name="app_subtitle">Project Sekai room disbander!</string>
+
+    <string name="section_appearance">Appearance</string>
+    <string name="btn_select_image">Select Custom Icon</string>
+    <string name="btn_reset_image">Reset to Default</string>
+
+    <string name="label_size">Button Size</string>
+    <string name="size_format">%d px</string>
+
+    <string name="label_alpha">Arrow Opacity</string>
+    <string name="alpha_format">%d%%</string>
+
+    <string name="label_arrow_width">Arrow Width</string>
+    <string name="label_arrow_height">Arrow Height</string>
+
+    <string name="btn_start">ENABLE OVERLAY</string>
+    <string name="btn_stop">DISABLE</string>
+
+    <string name="toast_saved">Image saved successfully</string>
+    <string name="toast_error">Error saving image</string>
+    <string name="toast_reset">Icon reset to default</string>
+    <string name="perm_required">Overlay permission is required</string>
+    <string name="tile_label">Sekai Disbander</string>
+    <string name="tile_active">ON</string>
+    <string name="tile_inactive">Disbander</string>
+</resources>

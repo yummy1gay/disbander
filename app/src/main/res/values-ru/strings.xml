@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sekai Disbander</string>
+    <string name="app_title">DISBANDER</string>
+    <string name="app_subtitle">Дизбандер рум Project Sekai!</string>
+
+    <string name="section_appearance">Внешний вид</string>
+    <string name="btn_select_image">Выбрать иконку</string>
+    <string name="btn_reset_image">Сбросить</string>
+
+    <string name="label_size">Размер кнопки</string>
+    <string name="size_format">%d px</string>
+
+    <string name="label_alpha">Прозрачность стрелки</string>
+    <string name="alpha_format">%d%%</string>
+
+    <string name="label_arrow_width">Ширина стрелки</string>
+    <string name="label_arrow_height">Высота стрелки</string>
+
+    <string name="btn_start">ВКЛЮЧИТЬ ОВЕРЛЕЙ</string>
+    <string name="btn_stop">ОТКЛЮЧИТЬ</string>
+
+    <string name="toast_saved">Изображение сохранено</string>
+    <string name="toast_error">Ошибка сохранения</string>
+    <string name="toast_reset">Иконка сброшена</string>
+    <string name="perm_required">Необходимо разрешение на наложение</string>
+
+    <string name="tile_label">Sekai Disbander</string>
+    <string name="tile_active">ВКЛ</string>
+    <string name="tile_inactive">Disbander</string>
+</resources>
